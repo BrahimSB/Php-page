@@ -1,1 +1,2 @@
-DUPLICATE OF THE PREVIOUS FILE JUST WITH AN AUTOMATIC REFRESH EQUIV = 2 !!
+A small page with an automatic refresh "EQUIV = 4" that you can customize with your own pictures and even duplicate the pager. 
+Enjoy...
